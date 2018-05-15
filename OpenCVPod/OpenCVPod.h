@@ -15,6 +15,6 @@ FOUNDATION_EXPORT double OpenCVPodVersionNumber;
 FOUNDATION_EXPORT const unsigned char OpenCVPodVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <OpenCVPod/PublicHeader.h>
-#import "OpenCVWrapper.h"
+#import <OpenCVPod/OpenCvExample-Bridging-Header.h>
 
 
