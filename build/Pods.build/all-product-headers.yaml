@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/ahmed/Desktop/Projects/OpencVPod/OpenCVPod/build/Debug-iphonesimulator/Pods_OpenCVPod.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-OpenCVPod-umbrella.h",
+          'external-contents': "/Users/ahmed/Desktop/Projects/OpencVPod/OpenCVPod/Pods/Target Support Files/Pods-OpenCVPod/Pods-OpenCVPod-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_OpenCVPod-Swift.h",
+          'external-contents': "/Users/ahmed/Desktop/Projects/OpencVPod/OpenCVPod/build/Debug-iphonesimulator/Pods_OpenCVPod.framework/Headers/Pods_OpenCVPod-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ahmed/Desktop/Projects/OpencVPod/OpenCVPod/build/Debug-iphonesimulator/Pods_OpenCVPod.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ahmed/Desktop/Projects/OpencVPod/OpenCVPod/build/Pods.build/Debug-iphonesimulator/Pods-OpenCVPod.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

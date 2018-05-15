@@ -1,0 +1,11 @@
+framework module OpenCVPod {
+  umbrella header "OpenCVPod.h"
+
+  export *
+  module * { export * }
+}
+
+module OpenCVPod.Swift {
+    header "OpenCVPod-Swift.h"
+    requires objc
+}
